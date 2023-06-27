@@ -1,9 +1,14 @@
 <h1>Eae de boa? sou o Fernando mas pode me chamar de Fezinho</h1>
-<p>Atualmente estou cursando Ciência da Computação na UNIP e Dev front-end no SENAC</p>
-  <h2>Sobre mim</h2>
-  <ul>
-    <li>Estudante de Ciência da Computação</li>
+<p>Atualmente estou cursando</p>
+ <ul>
+    <li>Ciência da Computação - UNIP</li>
     <li>Desenvolvedor front-end - Senac</li>
+    <li>HTML e CSS: Praticando HTML/CSS - Alura</li>
+    <li>CSS: Flexbox e layouts responsivos - Alura</li>
+    <li>JavaScript para Web: Crie páginas dinâmicas - Alura</li>
+ </ul>
+<h2>Sobre mim</h2>
+ <ul>
     <li>Apaixonado por basquete 🏀 </li>
     <li>Gamer</li>
   </ul>
@@ -13,9 +18,15 @@
    <div style="display: inline_block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" heigth="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" heigth="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" heigth="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50"/>
    </div>
     <hr>
+  <h4>Minhas redes sociais</h4>
+    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/ width="50" height="50">
+    <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50"/>
+          
+                     
   
 
 
