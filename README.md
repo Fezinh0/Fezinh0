@@ -1,5 +1,5 @@
 <h1>Eae de boa? sou o Fernando mas pode me chamar de Fezinho</h1>
-<p>Atualmente estou cursando</p>
+<h2>Atualmente estou cursando</h2>
  <ul>
     <li>Ciência da Computação - UNIP</li>
     <li>Desenvolvedor front-end - Senac</li>
@@ -7,7 +7,7 @@
     <li>CSS: Flexbox e layouts responsivos - Alura</li>
     <li>JavaScript para Web: Crie páginas dinâmicas - Alura</li>
  </ul>
-<h2>Sobre mim</h2>
+<h3>Sobre mim</h3>
  <ul>
     <li>Apaixonado por basquete 🏀 </li>
     <li>Gamer</li>
