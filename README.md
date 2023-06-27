@@ -4,8 +4,22 @@
   <ul>
     <li>Estudante de Ciência da Computação</li>
     <li>Desenvolvedor front-end - Senac</li>
-    <li>Apaixonado por games</li>
+    <li>Apaixonado por basquete </li>
+    <li>Gamer</li>
   </ul>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <hr>
+  <h3>Linguagens</h3>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" heigth="50" position="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" heigth="50" />
+    <hr>
+  
+
+
+
+  
+
+          
+
 
