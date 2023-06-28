@@ -32,13 +32,13 @@
     <hr>
     <h4>Minhas redes sociais</h4>
     <div>
-        <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img
+        <a href="https://instagram.com/yrnfernando_" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
                 target="_blank"></a>
-        <a href="mailto:contato@seu-usuário-aqui"><img
+        <a href="mailto:contato@fernando.developer.16@gmail.com"><img
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
                 target="_blank"></a>
-        <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img
+        <a href="https://www.linkedin.com/in/fernando-oliveira-0001a0236/" target="_blank"><img
                 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                 target="_blank"></a>
     </div>
