@@ -15,21 +15,23 @@
     <hr>
     <div>
         <div>
-<a href="https://github.com/Fezinh0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fezinh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-    <hr>
+            <a href="https://github.com/Fezinh0">
+                <img height="180em"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&langs_count=7&theme=dracula" />
+                <img height="180em"
+                    src="https://github-readme-stats.vercel.app/api?username=Fezinh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        </div>
+        <hr>
     </div>
     <h3>Linguagens</h3>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <div style="display: inline_block" style="line height:" 5.5"><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" heigth="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"
+            heigth="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" />
     </div>
-    <hr>
     <h4>Minhas redes sociais</h4>
     <div>
         <a href="https://instagram.com/yrnfernando_" target="_blank"><img
