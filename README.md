@@ -32,7 +32,7 @@
             heigth="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" />
     </div>
-    <h4>Contato</h4>
+    <h3>Contato</h3>
     <div>
         <a href="mailto:fernando.developer.16@gmail.com"><img
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
