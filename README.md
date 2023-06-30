@@ -32,11 +32,8 @@
             heigth="50" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" />
     </div>
-    <h4>Minhas redes sociais</h4>
+    <h4>Contato</h4>
     <div>
-        <a href="https://instagram.com/yrnfernando_" target="_blank"><img
-                src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-                target="_blank"></a>
         <a href="mailto:fernando.developer.16@gmail.com"><img
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
                 target="_blank"></a>
