@@ -36,7 +36,7 @@
     <div>
         <a href="mailto:fernando.developer.16@gmail.com"><img
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-                target="_blank"></a>
+                target="_blank" style="border-radius: 5px;"></a>
         <a href="https://www.linkedin.com/in/fernando-oliveira-0001a0236/" target="_blank"><img
                 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                 target="_blank"></a>
