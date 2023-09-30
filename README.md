@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04ad2a&height=160&section=header&text=Bem%20ao%20meu%20Github&fontSize=50&animation=fadeIn&fontAlignY=38&textcolor=ad2a04"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04ad2a&height=160&section=header&text=Bem%20Vindo(a)%20ao%20meu%20Github&fontSize=50&animation=fadeIn&fontAlignY=38&textcolor=ad2a04"/>
 
  <h1 align="center">Me chamo Fernando, mas pode me chamar de Fezinho</h1>     
      <div align="center">
