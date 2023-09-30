@@ -2,10 +2,8 @@
     <h2>Atualmente estou cursando</h2>
     <ul>
         <li>Ciência da Computação - UNIP</li>
-        <li>Desenvolvedor front-end - Senac</li>
-        <li>HTML e CSS: Praticando HTML/CSS - Alura</li>
-        <li>CSS: Flexbox e layouts responsivos - Alura</li>
-        <li>JavaScript para Web: Crie páginas dinâmicas - Alura</li>
+        <li>User Interface e Interaction - SENAC</li>
+      
     </ul>
     <h3>Sobre mim</h3>
     <ul>
