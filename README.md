@@ -3,7 +3,6 @@
     <ul>
         <li>Ciência da Computação - UNIP</li>
         <li>User Interface e Interaction - SENAC</li>
-      
     </ul>
     <h3>Sobre mim</h3>
     <ul>
