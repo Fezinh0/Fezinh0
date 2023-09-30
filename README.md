@@ -4,7 +4,7 @@
      <div align="center">
        <h3>Estou cursando atualmente:</h3>
           <p>Ciência da Computação - UNIP</p>
-          <p>User Interface e Interaction - SENAC</p>
+          <p>User Interface and Interaction - SENAC</p>
       <h3>Sobre mim</h3>    
           <p>Curto Basquete 🏀</p>
           <p>Torcedor do Celtics 🏀☘️</p>   
