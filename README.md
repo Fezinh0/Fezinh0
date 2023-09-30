@@ -6,7 +6,7 @@
           <p>Ciência da Computação - UNIP</p>
           <p>User Interface e Interaction - SENAC</p>
       <h3>Sobre mim</h3>    
-          <p>Apaixonado por basquete 🏀</p>
+          <p>Curto Basquete 🏀</p>
           <p>Torcedor do Celtics 🏀☘️</p>   
           <p>Gamer</p>
        </div>
