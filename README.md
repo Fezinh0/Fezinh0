@@ -20,7 +20,7 @@
         </div>
         <hr>
     <div align="center">
-       <p size="28">Linguagens/p>
+       <p size="28">Linguagens</p>
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
        <div style="display: inline_block" style="line height:" 5.5"><br>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
