@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04ad2a&height=160&section=header&text=Bem%20Vindo(a)%20ao%20meu%20Github&fontSize=50&animation=fadeIn&fontAlignY=38&textcolor=ad2a04"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=160&section=header&text=Bem%20Vindo(a)%20ao%20meu%20Github&fontSize=50&animation=fadeIn&fontAlignY=38&textcolor=ad2a04"/>
 
  <h1 align="center">Me chamo Fernando, mas pode me chamar de Fezinho</h1>     
      <div align="center">
@@ -31,14 +31,14 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" />
     <p size="28">Contato</p>
-           <a href="mailto:fernando.developer.16@gmail.com"><img
-                   src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+           <a href="mailto:fernando.developer.16@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
                    target="_blank"></a>
            <a href="https://www.linkedin.com/in/fernando-oliveira-0001a0236/" target="_blank"><img
                    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                    target="_blank"></a>
     </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=04ad2a&height=130&section=footer"/>  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=FF4500&height=130&section=footer"/>  
 
           
 
