@@ -2,13 +2,15 @@
 
  <h1 align="center">Me chamo Fernando, mas pode me chamar de Fezinho</h1>     
      <div align="center">
-       <h3>Estou cursando atualmente:</h3>
-          <p>Ciência da Computação - UNIP</p>
+       <h3>Atualmente estou cursando :</h3>
+          <p>Ciência da Computação - UNIP 4/8</p>
           <p>User Interface and Interaction - SENAC</p>
+          <p>React: praticando react com js - Alura</p>
       <h3>Sobre mim</h3>    
           <p>Curto Basquete 🏀</p>
           <p>Torcedor do Celtics 🏀☘️</p>   
-          <p>Gamer</p>
+          <p>Gamer 🎮</p>
+          <p>Fã de animes de esportes </p>
        </div>
     <hr>
         <div align="center">
