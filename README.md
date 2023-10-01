@@ -8,7 +8,7 @@
           <p>React: praticando react com js - Alura</p>
       <h3>Sobre mim</h3>    
           <p>Curto Basquete 🏀</p>
-          <p>Torcedor do Celtics 🏀☘️</p>   
+          <p>Torcedor do Boston Celtics 🏀☘️</p>   
           <p>Gamer 🎮</p>
           <p>Fã de animes de esportes </p>
        </div>
