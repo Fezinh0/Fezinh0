@@ -14,20 +14,14 @@
        </div>
     <hr>
        <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fezinh0&show_icons=true&count_private=true&hide_border=true&title_color=44FF00&icon_color=44FF00&text_color=c9d1d9&bg_color=0d1117" alt="Fezinh0 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&hide_border=true&title_color=44FF00&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?  username=Fezinh0&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=FF4500&bg_color=0d1117" alt="Fezinh0 github stats" /> 
+      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&hide_border=true&title_color=FF4500&text_color=c9d1d9&bg_color=0d1117" />
+    </div>
 
-<div align="center"> 
-<a href="https://instagram.com/dio_gms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/diogo-madeira-852330278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="mailto:diogomdossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
- </div>
-<br><hr>
    <div align="center">
         <hr>
     <div align="center">
-       <p size="28">Linguagens</p>
+       <p size="28">Linguagens que utilizo atualmente</p>
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
        <div style="display: inline_block" style="line height:" 5.5"><br>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
