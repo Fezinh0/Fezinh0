@@ -13,13 +13,18 @@
           <p>Fã de animes de esportes </p>
        </div>
     <hr>
-        <div align="center">
-            <a href="https://github.com/Fezinh0">
-                <img height="180em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&langs_count=7&theme=dracula" />
-                <img height="180em"
-                src="https://github-readme-stats.vercel.app/api?username=Fezinh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-                </div>
+       <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?      username=Fezinh0&show_icons=true&count_private=true&hide_border=true&title_color=44FF00&icon_color=44FF00&text_color=c9d1d9&bg_color=0d1117" alt="Fezinh0 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&hide_border=true&title_color=44FF00&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center"> 
+<a href="https://instagram.com/dio_gms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/diogo-madeira-852330278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="mailto:diogomdossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+ </div>
+<br><hr>
+   <div align="center">
         <hr>
     <div align="center">
        <p size="28">Linguagens</p>
