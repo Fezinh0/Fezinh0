@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Fernando+Oliveira;Tenho+20+anos;Sou+de+São+Paulo+;E+seja+Bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Fernando+Oliveira;Tenho+20+anos;Sou+de+São+Paulo+;E+seja+Bem-vindo(a)!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fezinh0&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Madeira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&hide_border=true&title_color=FF4500&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fezinh0&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=DA70D6&text_color=DA70D6&bg_color=0d1117" alt="Fernando Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fezinh0&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <hr>
 <div align="center">
@@ -37,4 +37,4 @@
 <a href="https://www.linkedin.com/in/fernando-oliveira-0001a0236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="mailto:fernando.developer.16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
  </div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
