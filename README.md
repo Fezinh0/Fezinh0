@@ -14,8 +14,9 @@
  <p>Dev. Front-end</p> 
  <p>Gamer</p> 
  <p>Basquete player</p> 
- 
- 
+
+ ### Last music on Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mnn5mz67fer44udapixuj27u6y&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mnn5mz67fer44udapixuj27u6y&redirect=true)
 </div>
 <div align="center">
      
