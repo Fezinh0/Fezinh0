@@ -25,7 +25,7 @@
 
 <div style="display: inline_block" style="line height:" 5.5"><br>
 <a href="https://skillicons.dev&theme=ligth">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,java,git"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,java,nodejs"/>
 
  </div>
   <hr>
