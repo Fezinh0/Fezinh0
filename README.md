@@ -11,7 +11,7 @@
 
  ### Sobre mim:
  
- <p>Dev. Front-end</p> 
+ <p>Desenvolvedor de Software</p> 
  <p>Gamer</p> 
  <p>Basquete player</p> 
 
